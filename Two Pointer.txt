@@ -1,0 +1,26 @@
+**Basic Two Pointer Coding Questions:**
+
+1. **Two Sum:** Given an array of integers, find two numbers such that they add up to a specific target.
+2. **Reverse a String:** Use two pointers to reverse a string in-place.
+3. **Remove Duplicates from Sorted Array:** Modify the array in-place such that duplicates are removed.
+4. **Merge Sorted Arrays:** Given two sorted arrays, merge them into a single sorted array.
+
+**Intermediate Two Pointer Coding Questions:**
+
+5. **Container With Most Water:** Given n non-negative integers representing a list of heights of walls, find the maximum area of water that can be trapped.
+6. **Three Sum:** Find all unique triplets in an array that give the sum of zero.
+7. **Move Zeroes:** Given an array, move all zeroes to the end while maintaining the relative order of the other elements.
+8. **Valid Palindrome:** Determine if a given string is a palindrome, considering only alphanumeric characters and ignoring cases.
+
+**Advanced Two Pointer Coding Questions:**
+
+9. **Longest Substring Without Repeating Characters:** Given a string, find the length of the longest substring without repeating characters.
+10. **Minimum Window Substring:** Given a string and a pattern, find the minimum window in the string which contains all the characters of the pattern.
+11. **Trapping Rain Water:** Given an array representing elevation, calculate how much rain water it can trap.
+12. **4-Sum Problem:** Find all unique quadruplets in the array which gives the sum of a specific target.
+
+**Challenging Two Pointer Coding Questions:**
+
+13. **Remove Nth Node From End of List:** Given a linked list, remove the nth node from the end of the list and return its head.
+14. **Valid Parentheses:** Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+15. **3-Sum Closest:** Find the sum closest to a given target among three numbers in an array.

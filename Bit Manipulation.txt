@@ -1,0 +1,30 @@
+**Basic Bit Manipulation Coding Questions:**
+
+1. **Set a Bit:** Write a function to set the nth bit of a given number.
+2. **Clear a Bit:** Write a function to clear the nth bit of a given number.
+3. **Toggle a Bit:** Write a function to toggle the nth bit of a given number.
+4. **Check if a Bit is Set:** Write a function to check if the nth bit of a given number is set.
+5. **Count Set Bits (Hamming Weight):** Write a function to count the number of set bits in a given number.
+
+**Intermediate Bit Manipulation Coding Questions:**
+
+6. **Check if a Number is Power of Two:** Write a function to check if a given number is a power of two.
+7. **Find the Single Non-Repeating Element:** Given an array of integers where every element appears twice except for one, find the non-repeating element.
+8. **Swap Two Numbers without a Temporary Variable:** Write a function to swap two numbers without using a temporary variable.
+9. **Reverse Bits:** Write a function to reverse the bits of a 32-bit unsigned integer.
+10. **Generate Power Set:** Write a function to generate the power set of a given set.
+
+**Advanced Bit Manipulation Coding Questions:**
+
+11. **Find the Missing Number in a Bitwise Sorted Array:** Given an array containing n distinct numbers taken from the range 0 to n, find the missing number.
+12. **Maximum XOR of Two Numbers in an Array:** Given an integer array, find the maximum XOR of any two elements.
+13. **Count Total Set Bits in All Numbers from 1 to N:** Given a positive integer n, count the total number of set bits in binary representation of all numbers from 1 to n.
+14. **Implement a Bitwise Trie:** Implement a trie (prefix tree) using bitwise operations.
+
+**Challenging Bit Manipulation Coding Questions:**
+
+15. **Minimum XOR Value of Two Integers in an Array:** Given an array of integers, find the minimum XOR value of any two integers in the array.
+16. **Maximum Product of Three Numbers:** Given an integer array, find the maximum possible product of three numbers.
+17. **Implement a Bitwise Bloom Filter:** Implement a Bloom filter using bitwise operations.
+18. **Implement a Bitwise Hash Map:** Implement a hash map using bitwise operations.
+

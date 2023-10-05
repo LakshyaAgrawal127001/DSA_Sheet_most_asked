@@ -1,0 +1,30 @@
+**Basic Tree Coding Questions:**
+
+1. **Binary Tree Traversals:** Implement the in-order, pre-order, and post-order traversals of a binary tree.
+2. **Find the Height of a Binary Tree:** Write a function to calculate the height (or depth) of a binary tree.
+3. **Check if a Binary Tree is Balanced:** Determine if a binary tree is balanced (the height of the left and right subtrees of any node differ by at most one).
+4. **Find the Maximum Element in a Binary Tree:** Write a function to find the maximum value in a binary tree.
+5. **Check if a Value is Present in a Binary Tree:** Write a function to determine if a given value exists in a binary tree.
+6. **Find the Lowest Common Ancestor (LCA) of Two Nodes:** Write a function to find the lowest common ancestor of two nodes in a binary tree.
+
+**Intermediate Tree Coding Questions:**
+
+7. **Binary Search Tree (BST) Validation:** Determine if a given binary tree is a valid binary search tree.
+8. **Level Order Traversal:** Implement a function to traverse a binary tree in level order.
+9. **Serialize and Deserialize a Binary Tree:** Write functions to serialize a binary tree into a string and deserialize it back to a tree.
+10. **Mirror a Binary Tree:** Write a function to mirror or invert a binary tree.
+11. **Construct a Binary Tree from Inorder and Preorder Traversals:** Given inorder and preorder traversal sequences, construct a binary tree.
+
+**Advanced Tree Coding Questions:**
+
+12. **Binary Tree Diameter:** Find the diameter of a binary tree (longest path between any two nodes).
+13. **Binary Tree Maximum Path Sum:** Find the maximum path sum in a binary tree (path can start and end at any node).
+14. **Binary Tree Zigzag Level Order Traversal:** Implement the zigzag level order traversal of a binary tree.
+15. **Red-Black Tree Operations:** Implement basic operations like insertion, deletion, and balancing in a Red-Black Tree.
+
+**Challenging Tree Coding Questions:**
+
+16. **Threaded Binary Tree:** Implement a threaded binary tree, where each node has pointers to the in-order predecessor and successor.
+17. **Binary Indexed Tree (Fenwick Tree):** Implement a Binary Indexed Tree for efficient range queries.
+18. **Balanced Binary Search Tree (AVL Tree):** Implement basic operations like insertion, deletion, and balancing in an AVL tree.
+19. **Morris Traversal:** Implement in-order, pre-order, and post-order traversals using Morris Traversal, which doesn't use extra space.

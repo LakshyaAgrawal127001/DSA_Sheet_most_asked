@@ -1,0 +1,34 @@
+
+
+**Basic Array Coding Questions:**
+
+1. **Find the Maximum Element:** Write a function to find the maximum element in an array.
+2. **Find the Minimum Element:** Write a function to find the minimum element in an array.
+3. **Calculate the Sum of Array Elements:** Write a function to calculate the sum of all elements in an array.
+4. **Reverse an Array:** Write a function to reverse the elements of an array.
+5. **Find the Average of Array Elements:** Write a function to find the average of elements in an array.
+6. **Check if Array Contains a Specific Element:** Write a function to check if a given element is present in an array.
+
+**Intermediate Array Coding Questions:**
+
+7. **Remove Duplicates from an Array:** Write a function to remove duplicate elements from an array.
+8. **Rotate an Array:** Write a function to rotate the elements of an array by a given number of positions.
+9. **Find the Missing Number:** Given an array of n distinct numbers, find the missing number in the range from 1 to n+1.
+10. **Find the Majority Element:** Find an element that appears more than n/2 times in an array (if it exists).
+11. **Implement a Dynamic Array:** Create a dynamic array that can grow and shrink in size.
+
+**Advanced Array Coding Questions:**
+
+12. **Find Subarray with Maximum Sum (Kadane's Algorithm):** Given an array, find the contiguous subarray with the largest sum.
+13. **Find the "Kth" Smallest/Largest Element:** Write a function to find the kth smallest or largest element in an array.
+14. **Next Permutation:** Implement the next permutation, which rearranges the elements into the lexicographically next greater permutation.
+15. **Find the Longest Increasing Subsequence:** Given an unsorted array, find the length of longest increasing subsequence.
+16. **Trapping Rain Water Problem:** Given an array representing elevation, calculate how much rain water it can trap.
+
+**Challenging Array Coding Questions:**
+
+17. **Median of Two Sorted Arrays:** Given two sorted arrays, find the median element.
+18. **3-Sum Problem:** Find all unique triplets in the array which gives the sum of zero.
+19. **Merge Intervals:** Given a collection of intervals, merge any overlapping intervals.
+20. **Spiral Matrix Traversal:** Write a function to traverse a matrix in a spiral order.
+

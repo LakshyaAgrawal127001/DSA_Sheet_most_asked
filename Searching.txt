@@ -1,0 +1,31 @@
+
+
+**Basic Searching Coding Questions:**
+
+1. **Linear Search:** Write a function to perform a linear search on an array to find a specific element.
+2. **Binary Search:** Write a function to perform a binary search on a sorted array to find a specific element.
+3. **Find Maximum Element:** Write a function to find the maximum element in an array (without sorting).
+4. **Find Minimum Element:** Write a function to find the minimum element in an array (without sorting).
+5. **Check if Element Exists:** Write a function to check if a given element exists in an array.
+
+**Intermediate Searching Coding Questions:**
+
+6. **Count Occurrences:** Write a function to count the number of occurrences of a specific element in an array.
+7. **Find First and Last Occurrence:** Write a function to find the first and last occurrence of a specific element in a sorted array.
+8. **Search in Rotated Sorted Array:** Given a rotated sorted array, write a function to find a specific element.
+9. **Square Root of a Number:** Implement a function to find the square root of a given number using binary search.
+
+**Advanced Searching Coding Questions:**
+
+10. **Interpolation Search:** Implement the interpolation search algorithm to find a specific element in a sorted array.
+11. **Exponential Search:** Implement the exponential search algorithm to find a specific element in a sorted, unbounded list.
+12. **Two Pointers Technique:** Implement a solution using the two-pointers technique (e.g., finding pairs with a given sum).
+13. **Search in 2D Matrix:** Given a 2D matrix sorted in ascending order, write a function to find a specific element.
+
+**Challenging Searching Coding Questions:**
+
+14. **Find Peak Element:** Given an array, find a peak element (an element which is greater than or equal to its neighbors).
+15. **Median in a Sorted Array:** Find the median of two sorted arrays of the same size.
+16. **Smallest Missing Positive Integer:** Given an unsorted array, find the smallest missing positive integer.
+17. **Search in a Sorted and Rotated Array:** Given a rotated sorted array, write a function to find a specific element.
+rithms and techniques. It's important to understand the time and space complexity of each algorithm and practice implementing them in your preferred programming language. Good luck!

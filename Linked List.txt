@@ -1,0 +1,35 @@
+**Basic Linked List Coding Questions:**
+
+1. **Create a Linked List:** Implement a basic linked list with nodes and the ability to add elements.
+2. **Reverse a Linked List:** Write a function to reverse the elements of a linked list.
+3. **Find the Middle of a Linked List:** Write a function to find the middle element of a linked list.
+4. **Detect a Cycle in a Linked List:** Write a function to detect if a linked list contains a cycle.
+
+**Intermediate Linked List Coding Questions:**
+
+5. **Detect a Cycle's Starting Point:** If a cycle exists in a linked list, find the node where the cycle begins.
+6. **Merge Two Sorted Linked Lists:** Write a function to merge two sorted linked lists into one sorted linked list.
+7. **Remove Nth Node from End:** Write a function to remove the n-th node from the end of a linked list.
+8. **Detect a Loop in a Linked List:** Write a function to detect and remove a loop in a linked list.
+
+**Advanced Linked List Coding Questions:**
+
+9. **Clone a Linked List with Random Pointers:** Create a deep copy of a linked list with next and random pointers.
+10. **Reverse Nodes in k-Group:** Reverse k consecutive nodes in a linked list.
+11. **LRU Cache Implementation:** Implement an LRU (Least Recently Used) cache using a linked list and a hash map.
+12. **Add Two Numbers Represented by Linked Lists:** Given two linked lists representing numbers, add them and return the sum as a linked list.
+
+**Challenging Linked List Coding Questions:**
+
+13. **Flatten a Multilevel Doubly Linked List:** Flatten a doubly linked list with multiple levels.
+14. **Sort a Linked List:** Sort a linked list in O(n log n) time complexity.
+15. **Intersection Point in Y Shaped Linked Lists:** Find the node where two linked lists intersect.
+16. **Rotate a Linked List:** Given a linked list, rotate it by k positions.
+
+**Advanced Data Structure with Linked List:**
+
+17. **LRU Cache with Constant Time Operations:** Implement an LRU Cache with constant time operations for get and put.
+
+**Additional Practice (Advanced):**
+
+18. **Implement a Skip List:** Implement a skip list, which is a probabilistic data structure.

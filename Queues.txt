@@ -1,0 +1,32 @@
+**Basic Queue Coding Questions:**
+
+1. **Implement a Queue:** Write a class to implement a basic queue with enqueue and dequeue operations.
+2. **Queue Using Stacks:** Implement a queue using two stacks.
+3. **Check if a Queue is Empty:** Write a function to check if a given queue is empty.
+4. **Find the Size of a Queue:** Write a function to find the size of a given queue.
+5. **Peek at the Front Element:** Write a function to get the front element of a queue without removing it.
+
+**Intermediate Queue Coding Questions:**
+
+6. **Reverse the First K Elements of a Queue:** Given a queue and an integer k, reverse the first k elements.
+7. **Generate Binary Numbers from 1 to N using a Queue:** Generate binary numbers from 1 to N using a queue.
+8. **Implement a Circular Queue:** Write a class to implement a circular queue.
+9. **Implement a Priority Queue:** Implement a priority queue using a heap or another data structure.
+10. **Sort a Queue using another Queue:** Given a queue, sort it using another queue.
+
+**Advanced Queue Coding Questions:**
+
+11. **Implement a Double Ended Queue (Deque):** Write a class to implement a double-ended queue that supports insert and delete operations from both ends.
+12. **Implement a Queue using Linked List:** Implement a queue using a linked list.
+13. **Design a Data Structure that Supports the Following Operations:**
+    - Insert an element to the queue.
+    - Get the current minimum element from the queue.
+    - Remove the current minimum element from the queue.
+14. **Implement a Circular Tour:** Suppose there is a circle. There are petrol pumps on that circle. Write a program to find a starting point where the truck can start to cover the maximum number of petrol pumps.
+
+**Challenging Queue Coding Questions:**
+
+15. **Design a Call Center:** Implement a call center system that assigns calls to employees based on their availability.
+16. **Implement LRU Cache:** Implement a data structure for Least Recently Used (LRU) cache.
+17. **Implement a Snake Game:** Design and implement the Snake game where a snake moves in a grid and eats food.
+18. **Implement a Moving Average from Data Stream:** Given a stream of integers and a window size, calculate the moving average.

@@ -1,0 +1,31 @@
+**Basic Set Coding Questions:**
+
+1. **Find Union of Two Sets:** Write a function to find the union of two sets.
+2. **Find Intersection of Two Sets:** Write a function to find the intersection of two sets.
+3. **Find the Difference of Two Sets:** Write a function to find the difference between two sets.
+4. **Check if Set is Subset of Another:** Write a function to check if one set is a subset of another.
+5. **Check if Sets are Disjoint:** Write a function to check if two sets have no elements in common.
+6. **Add Element to a Set:** Write a function to add an element to a set.
+
+**Intermediate Set Coding Questions:**
+
+7. **Find Symmetric Difference of Two Sets:** Write a function to find the symmetric difference between two sets.
+8. **Remove Element from a Set:** Write a function to remove an element from a set.
+9. **Find Cartesian Product of Two Sets:** Write a function to find the Cartesian product of two sets.
+10. **Power Set Generation:** Write a function to generate the power set of a set.
+11. **Find the Complement of a Set:** Write a function to find the complement of a set with respect to a universal set.
+12. **Implement Set Operations (e.g., union, intersection) without using built-in functions.**
+
+**Advanced Set Coding Questions:**
+
+13. **Find the Longest Consecutive Sequence:** Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
+14. **Implement a Set Data Structure from Scratch:** Implement a set using a hash table or other data structures.
+15. **Find the Intersection of Multiple Sets:** Write a function to find the intersection of multiple sets.
+16. **Set Operations with Large Data Sets (e.g., External Sorting, Disk-Based Set Operations).**
+17. **Implement a Bloom Filter:** Implement a Bloom filter data structure for efficient set membership testing.
+
+**Challenging Set Coding Questions:**
+
+18. **Find All Subsets with a Specific Sum:** Given a set of integers, find all subsets that add up to a specific sum.
+19. **Count Distinct Elements in a Large Dataset with Limited Memory.**
+20. **Implement a Disjoint Set (Union-Find) Data Structure:** Implement the union-find data structure and use it to solve related problems.

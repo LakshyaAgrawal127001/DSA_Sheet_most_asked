@@ -1,0 +1,32 @@
+**Basic Backtracking Coding Questions:**
+
+1. **Generate all Permutations:** Write a function to generate all permutations of a given string or array.
+2. **Generate Subsets:** Write a function to generate all possible subsets of a set.
+3. **N-Queens Problem:** Write a function to solve the N-Queens problem.
+4. **Sudoku Solver:** Implement a function to solve a Sudoku puzzle.
+5. **Generate Parentheses:** Write a function to generate all valid combinations of n pairs of parentheses.
+6. **Letter Combinations of a Phone Number:** Given a digit string, return all possible letter combinations that the number could represent.
+
+**Intermediate Backtracking Coding Questions:**
+
+7. **Word Search:** Given a 2D board and a word, find if the word exists in the grid.
+8. **Combination Sum:** Given a set of candidate numbers and a target sum, find all unique combinations.
+9. **Palindrome Partitioning:** Given a string, partition it into palindrome substrings.
+10. **Unique Paths in a Grid:** Given a grid, find the number of unique paths from the top-left corner to the bottom-right corner.
+11. **Rat in a Maze:** Given a maze, find a path from the top-left corner to the bottom-right corner, marking the path with 1s.
+
+**Advanced Backtracking Coding Questions:**
+
+12. **Satisfiability of Sudoku Puzzles (SAT Problem):** Determine if a given Sudoku puzzle is solvable.
+13. **Graph Coloring Problem:** Given an undirected graph, assign colors to all vertices such that no two adjacent vertices have the same color.
+14. **Hamiltonian Cycle:** Find a Hamiltonian cycle in a given graph.
+15. **Tug of War Problem:** Divide a set of positive integers into two subsets such that the difference between their sums is minimized.
+16. **Traveling Salesman Problem (TSP):** Find the shortest possible tour that visits each city once and returns to the original city.
+
+**Challenging Backtracking Coding Questions:**
+
+17. **Regular Expression Matching:** Implement regular expression matching with support for '.' and '*'.
+18. **N-Queens II:** Find the total number of distinct solutions to the N-Queens problem.
+19. **Knight's Tour Problem:** Find a sequence of moves for a knight on a chessboard such that it visits every square exactly once.
+20. **Solve a Cryptarithmetic Puzzle:** Given an equation with letters representing digits, find a valid assignment of digits.
+

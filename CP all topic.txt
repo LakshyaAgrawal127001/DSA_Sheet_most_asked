@@ -1,0 +1,107 @@
+Competitive Programming (CP) 
+
+1. **Basic Data Structures:**
+   - Arrays
+   - Strings
+   - Linked Lists
+   - Stacks
+   - Queues
+   - Heaps
+   - Trees (Binary Trees, Binary Search Trees, etc.)
+   - Graphs (Adjacency Matrix, Adjacency List)
+
+2. **Advanced Data Structures:**
+   - Segment Trees
+   - Fenwick Trees (Binary Indexed Trees)
+   - Disjoint Set Union (Union-Find)
+   - Trie (Prefix Tree)
+   - Hashing (Hash Map, Hash Set)
+   - Priority Queues (Min-Heap, Max-Heap)
+
+3. **Sorting and Searching:**
+   - Binary Search
+   - Merge Sort
+   - Quick Sort
+   - Counting Sort
+   - Radix Sort
+   - Bucket Sort
+
+4. **Dynamic Programming:**
+   - 0/1 Knapsack
+   - Longest Common Subsequence (LCS)
+   - Dynamic Programming on Trees
+   - Bitmask DP
+   - Matrix Chain Multiplication
+   - Coin Change Problem
+   - Edit Distance
+   - Longest Increasing Subsequence (LIS)
+   - Kadane's Algorithm (Maximum Subarray Sum)
+
+5. **Graph Algorithms:**
+   - Depth-First Search (DFS)
+   - Breadth-First Search (BFS)
+   - Dijkstra's Algorithm (Shortest Path)
+   - Bellman-Ford Algorithm
+   - Floyd-Warshall Algorithm (All Pairs Shortest Path)
+   - Topological Sorting
+   - Strongly Connected Components (SCC)
+   - Minimum Spanning Tree (Prim's, Kruskal's)
+   - Articulation Points and Bridges
+   - Eulerian Path/Cycle
+
+6. **Number Theory:**
+   - Prime Numbers and Primality Testing
+   - Sieve of Eratosthenes
+   - Greatest Common Divisor (GCD)
+   - Least Common Multiple (LCM)
+   - Modular Arithmetic
+   - Fermat's Little Theorem
+   - Chinese Remainder Theorem
+   - Euler's Totient Function
+   - Extended Euclidean Algorithm
+
+7. **Combinatorics:**
+   - Permutations and Combinations
+   - Pigeonhole Principle
+   - Inclusion-Exclusion Principle
+   - Binomial Coefficients
+   - Catalan Numbers
+   - Stirling Numbers
+   - Burnside's Lemma
+
+8. **Bit Manipulation:**
+   - Bitwise Operations (AND, OR, XOR, NOT, Shifts)
+   - Finding Set Bits
+   - Counting Set Bits
+   - Bitwise Manipulation Tricks
+   - Finding the Missing Element
+   - Finding Single Non-Repeating Element
+
+9. **Geometry:**
+   - Basics of Cartesian Geometry
+   - Line Sweep Algorithms
+   - Convex Hull (Graham's Scan, Jarvis March)
+   - Closest Pair of Points
+   - Polygon Area
+
+10. **String Algorithms:**
+    - String Matching (KMP Algorithm, Rabin-Karp Algorithm)
+    - Longest Common Prefix (LCP) Array
+    - Suffix Arrays
+    - Trie (for Strings)
+    - Palindrome Checking (Manacher's Algorithm)
+
+11. **Greedy Algorithms:**
+    - Activity Selection Problem
+    - Fractional Knapsack Problem
+    - Huffman Coding
+    - Job Sequencing Problem
+
+12. **Probability and Expected Value:**
+    - Basic Probability Concepts
+    - Expected Value Calculations
+
+13. **Game Theory:**
+    - Grundy Numbers
+    - Nim Game
+

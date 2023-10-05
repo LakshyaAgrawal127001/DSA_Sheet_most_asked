@@ -1,0 +1,23 @@
+**Basic Divide and Conquer Coding Questions:**
+
+1. **Binary Search:** Implement the binary search algorithm to find an element in a sorted array.
+2. **Calculate Power:** Write a function to calculate the power of a number using the Divide and Conquer approach.
+3. **Find Maximum Subarray Sum (Kadane's Algorithm):** Use the Divide and Conquer approach to find the maximum sum subarray.
+
+**Intermediate Divide and Conquer Coding Questions:**
+
+4. **Merge Sort:** Implement the merge sort algorithm using the Divide and Conquer technique.
+5. **Quick Sort:** Implement the quick sort algorithm using the Divide and Conquer technique.
+6. **Closest Pair of Points:** Given an array of points in a 2D plane, find the closest pair of points.
+
+**Advanced Divide and Conquer Coding Questions:**
+
+7. **Strassen's Matrix Multiplication:** Implement matrix multiplication using Strassen's algorithm.
+8. **Find the Kth Smallest Element in an Array:** Use the Divide and Conquer approach to find the kth smallest element in an unsorted array.
+9. **Counting Inversions:** Given an array, count the number of inversions it has.
+
+**Challenging Divide and Conquer Coding Questions:**
+
+10. **Maximum Subarray Sum in a Circular Array:** Find the maximum possible sum in a circular subarray.
+11. **Closest Pair of Points in 3D Space:** Extend the closest pair of points problem to 3D space.
+12. **Longest Common Prefix of an Array of Strings:** Find the longest common prefix among an array of strings using Divide and Conquer.

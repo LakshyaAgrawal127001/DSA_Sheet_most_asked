@@ -1,0 +1,29 @@
+
+
+**Basic Heap Coding Questions:**
+
+1. **Implement a Min-Heap:** Write code to create and maintain a binary min-heap.
+2. **Implement a Max-Heap:** Write code to create and maintain a binary max-heap.
+3. **Heapify an Array:** Given an array, convert it into a valid heap.
+
+**Intermediate Heap Coding Questions:**
+
+4. **Kth Largest Element in an Array:** Find the kth largest element in an unsorted array.
+5. **Kth Smallest Element in a Sorted Matrix:** Find the kth smallest element in a sorted matrix.
+6. **Merge K Sorted Arrays:** Given K sorted arrays, merge them into one sorted array.
+7. **Top K Frequent Elements:** Find the k most frequent elements in an array.
+
+**Advanced Heap Coding Questions:**
+
+8. **Heap Sort:** Implement the heap sort algorithm.
+9. **Priority Queue Implementation:** Implement a priority queue using a binary heap.
+10. **Find the Median of a Stream:** Design a data structure that supports the following two operations: addNum() and findMedian().
+11. **Dijkstra's Algorithm:** Implement Dijkstra's algorithm using a min-heap for finding the shortest path in a weighted graph.
+
+**Challenging Heap Coding Questions:**
+
+12. **Median of Two Sorted Arrays:** Find the median element of the two sorted arrays without actually merging them.
+13. **Connect 'n' Ropes with Minimum Cost:** Given ‘n’ ropes with different lengths, connect them to minimize the cost.
+14. **Merge K Sorted Linked Lists:** Merge K sorted linked lists and return it as one sorted list.
+15. **Sliding Window Maximum:** Given an array and an integer k, find the maximum element for each and every contiguous subarray of size k.
+

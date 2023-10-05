@@ -1,0 +1,44 @@
+**Basic Sliding Window Coding Questions:**
+
+1. **Maximum Sum Subarray of Size K:**
+   - Given an array and an integer K, find the maximum sum of a subarray of size K.
+
+2. **Longest Substring Without Repeating Characters:**
+   - Given a string, find the length of the longest substring without repeating characters.
+
+3. **Smallest Subarray with a Sum >= S:**
+   - Given an array of positive integers and a target sum S, find the minimal length of a contiguous subarray whose sum is greater than or equal to S.
+
+**Intermediate Sliding Window Coding Questions:**
+
+4. **Fruit into Baskets:**
+   - Given an array of characters representing fruits, you are allowed to pick any two different types of fruits. What is the maximum number of fruits you can collect?
+
+5. **Longest Subarray with Ones after Replacement:**
+   - Given an array of 0s and 1s, you are allowed to replace at most one 0. Find the length of the longest subarray with all 1s.
+
+6. **Find All Anagrams in a String:**
+   - Given a string s and a non-empty string p, find all the start indices of p's anagrams in s.
+
+**Advanced Sliding Window Coding Questions:**
+
+7. **Minimum Window Substring:**
+   - Given a string S and a string T, find the minimum window in S that will contain all the characters in T.
+
+8. **Longest Substring with At Most K Distinct Characters:**
+   - Given a string, find the length of the longest substring T that contains at most k distinct characters.
+
+9. **Maximum Points You Can Obtain from Cards:**
+   - You have n cards, each card has a number of points associated with it. You want to maximize the number of points you get, with the constraint that you can remove at most k cards.
+
+**Challenging Sliding Window Coding Questions:**
+
+10. **Longest Repeating Character Replacement:**
+    - Given a string s, you can change at most one character to any other character. Find the length of the longest substring containing all repeating letters you can get after performing the operation.
+
+11. **Subarrays with K Different Integers:**
+    - Given an array A of positive integers, find the number of subarrays that have exactly k distinct integers.
+
+12. **Longest Substring with Equal Occurrences of Letters:**
+    - Given a string s, return the length of the longest substring in s that occurs an even number of times.
+

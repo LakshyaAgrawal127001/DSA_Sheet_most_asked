@@ -1,0 +1,45 @@
+### Time Complexity Cheat Sheet:
+
+| Operation/Algorithm | Time Complexity (Big O Notation) |
+|---------------------|---------------------------------|
+| Linear Search       | O(n)                            |
+| Binary Search       | O(log n)                        |
+| Bubble Sort         | O(n^2)                          |
+| Merge Sort          | O(n log n)                      |
+| Quick Sort          | O(n log n) (average)            |
+| Insertion Sort      | O(n^2)                          |
+| Selection Sort      | O(n^2)                          |
+| Heap Sort           | O(n log n)                      |
+| Breadth-First Search (BFS) | O(V + E) (for graphs)     |
+| Depth-First Search (DFS) | O(V + E) (for graphs)      |
+| Dynamic Programming | Varies based on problem          |
+| Hash Table (Average) | O(1)                         |
+| Hash Table (Worst Case) | O(n)                       |
+| Graph Traversal (Adjacency Matrix) | O(V^2)            |
+| Graph Traversal (Adjacency List) | O(V + E)           |
+
+### Space Complexity Cheat Sheet:
+
+| Operation/Algorithm | Space Complexity (Big O Notation) |
+|---------------------|----------------------------------|
+| Array               | O(n)                             |
+| Linked List         | O(n)                             |
+| Stack               | O(n)                             |
+| Queue               | O(n)                             |
+| Binary Tree         | O(n)                             |
+| Binary Search Tree  | O(n) (unbalanced), O(log n) (balanced) |
+| Graph (Adjacency Matrix) | O(V^2)                        |
+| Graph (Adjacency List) | O(V + E)                      |
+| Hash Table          | O(n) (worst case)                |
+| Heap                | O(n)                             |
+| Recursive Call Stack| O(n)                             |
+
+### Recursion Time and Space Complexity:
+
+Recursion's time and space complexity can vary widely based on the specific problem and the implementation. In general:
+
+- **Time Complexity**: The time complexity of a recursive algorithm depends on the number of times the function calls itself, and the work done in each call. It's often similar to the complexity of iterative solutions, but can be less efficient due to the overhead of function calls.
+
+- **Space Complexity**: The space complexity of recursion is determined by the maximum depth of the call stack. In some cases, this can be O(n) where n is the number of recursive calls.
+
+

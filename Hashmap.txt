@@ -1,0 +1,30 @@
+**Basic HashMap Coding Questions:**
+
+1. **Implement a HashMap from Scratch:** Write a class that implements the basic functionalities of a HashMap (e.g., put, get, remove).
+2. **Check for Duplicates:** Given an array, check if there are any duplicate elements.
+3. **Frequency Counter:** Write a function to count the frequency of each element in an array.
+4. **Two Sum Problem:** Given an array of integers, find two numbers such that they add up to a specific target number.
+5. **Isomorphic Strings:** Determine if two strings are isomorphic (i.e., the characters in one string can be mapped to the characters in another string).
+
+**Intermediate HashMap Coding Questions:**
+
+6. **Word Frequency Counter:** Write a program to count the frequency of words in a text.
+7. **Group Anagrams:** Given an array of strings, group anagrams together.
+8. **Longest Subarray with Sum K:** Find the length of the longest subarray with a sum equal to k.
+9. **Top K Frequent Elements:** Given an array, find the k most frequent elements.
+10. **First Non-Repeating Character:** Find the first non-repeating character in a string.
+
+**Advanced HashMap Coding Questions:**
+
+11. **LRU Cache:** Implement an LRU (Least Recently Used) cache using a HashMap and a doubly linked list.
+12. **Longest Consecutive Sequence:** Find the length of the longest consecutive sequence of elements in an unsorted array.
+13. **Fraction to Recurring Decimal:** Given two integers representing a fraction, return the fraction in string format.
+14. **Four Sum Problem:** Given an array and a target sum, find all unique quadruplets in the array.
+15. **Clone Graph:** Clone an undirected graph.
+
+**Challenging HashMap Coding Questions:**
+
+16. **Substring with Concatenation of All Words:** Given a string and a list of words, find all the starting indices of substring(s) in the string that is a concatenation of each word exactly once.
+17. **Minimum Window Substring:** Given a string S and a string T, find the minimum window in S which will contain all the characters in T.
+18. **Maximum Points on a Line:** Given an array of points, find the maximum number of points that lie on the same straight line.
+19. **Longest Consecutive Sequence in Binary Tree:** Find the length of the longest consecutive sequence path in a binary tree.

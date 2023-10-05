@@ -1,0 +1,27 @@
+**Basic Priority Queue Coding Questions:**
+
+1. **Implement a Priority Queue:** Write a class or data structure that implements a basic priority queue.
+2. **Insert and Extract Maximum:** Implement functions to insert elements into the priority queue and extract the maximum element.
+3. **Check if Priority Queue is Empty:** Write a function to check if a priority queue is empty.
+4. **Find the Maximum Element in a Priority Queue:** Write a function to find the maximum element without extracting it.
+
+**Intermediate Priority Queue Coding Questions:**
+
+5. **Implement a Min-Heap:** Write a class or data structure that implements a min-heap.
+6. **Kth Largest Element in an Array:** Find the kth largest element in an unsorted array.
+7. **Merge K Sorted Lists:** Merge k sorted linked lists and return it as one sorted list.
+8. **Top K Frequent Elements:** Given a non-empty array, return the k most frequent elements.
+
+**Advanced Priority Queue Coding Questions:**
+
+9. **Dijkstra's Algorithm:** Implement Dijkstra's algorithm to find the shortest path in a weighted graph.
+10. **Prim's Algorithm:** Implement Prim's algorithm for finding a minimum spanning tree in a weighted graph.
+11. **Heap Sort:** Implement the heap sort algorithm using a max-heap.
+12. **Concurrent Priority Queue:** Implement a concurrent priority queue that supports multiple threads.
+
+**Challenging Priority Queue Coding Questions:**
+
+13. **Sliding Window Maximum:** Given an array and an integer k, find the maximum element for each and every contiguous subarray of size k.
+14. **Median of Data Stream:** Design a data structure that supports the following two operations: addNum(int num) and findMedian().
+15. **Merge K Sorted Arrays:** Given k sorted arrays, merge them into one sorted array.
+16. **Optimal Task Scheduler:** Given a list of tasks with different time requirements, find the optimal way to schedule them to minimize the total execution time.

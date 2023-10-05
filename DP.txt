@@ -1,0 +1,31 @@
+**Basic DP Coding Questions:**
+
+1. **Fibonacci Sequence:** Implement a function to find the nth Fibonacci number using dynamic programming.
+2. **Factorial:** Use dynamic programming to calculate the factorial of a number.
+3. **Count Ways to Reach the Nth Stair:** Given that you can climb 1 or 2 stairs at a time, how many ways are there to reach the nth stair?
+4. **Coin Change Problem:** Given a set of coins and a total amount, find the number of ways to make up that amount.
+5. **Longest Common Subsequence (LCS):** Find the length of the longest common subsequence between two strings.
+6. **Longest Increasing Subsequence (LIS):** Find the length of the longest subsequence of a given sequence such that elements are in strictly increasing order.
+
+**Intermediate DP Coding Questions:**
+
+7. **0/1 Knapsack Problem:** Given weights and values of items, find the maximum value that can be obtained in a knapsack of a fixed capacity.
+8. **Matrix Chain Multiplication:** Given a sequence of matrices, find the most efficient way to multiply them.
+9. **Edit Distance:** Given two strings, find the minimum number of operations required to convert one string into the other.
+10. **Longest Palindromic Subsequence (LPS):** Find the length of the longest subsequence of a given sequence such that elements are the same in reverse order.
+11. **Minimum Path Sum:** Given a grid, find the minimum sum path from the top-left corner to the bottom-right corner, moving only right or down.
+
+**Advanced DP Coding Questions:**
+
+12. **Maximum Subarray Sum:** Find the contiguous subarray with the largest sum.
+13. **Optimal Binary Search Tree:** Given a sorted array of keys, construct an optimal binary search tree.
+14. **Partition Problem:** Determine whether a given set can be partitioned into two subsets such that the sum of elements in both subsets is the same.
+15. **Longest Palindromic Substring:** Find the longest palindromic substring in a given string.
+16. **Wildcard Pattern Matching:** Given an input string and a pattern, implement wildcard pattern matching with support for '?' and '*'.
+
+**Challenging DP Coding Questions:**
+
+17. **Unique Paths:** Given a grid, find the number of unique paths from the top-left corner to the bottom-right corner, moving only right or down.
+18. **Longest Increasing Path in a Matrix:** Find the length of the longest increasing path in a matrix.
+19. **Regular Expression Matching:** Given an input string and a pattern, implement regular expression matching with support for '.' and '*'.
+20. **Word Break Problem:** Given a non-empty string and a dictionary of words, determine if the string can be segmented into a space-separated sequence of dictionary words.

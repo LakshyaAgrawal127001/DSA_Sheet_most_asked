@@ -1,0 +1,31 @@
+**Basic Map Coding Questions:**
+
+1. **Create a Map:** Write a program to create a map and add key-value pairs.
+2. **Access Values:** Write a program to access the values of a map using keys.
+3. **Check if Key Exists:** Write a program to check if a specific key exists in a map.
+4. **Remove Key-Value Pair:** Write a program to remove a key-value pair from a map.
+5. **Iterate Over Map:** Write a program to iterate over the keys and values of a map.
+
+**Intermediate Map Coding Questions:**
+
+6. **Frequency Count:** Given an array, write a program to create a map that counts the frequency of each element.
+7. **Find Duplicates:** Write a program to find duplicate elements in an array using a map.
+8. **Word Frequency Counter:** Write a program that takes a string and creates a map of word frequencies.
+9. **Anagrams Grouping:** Given a list of strings, group anagrams together.
+10. **Two Sum Problem:** Given an array of integers, find two numbers such that they add up to a specific target number.
+
+**Advanced Map Coding Questions:**
+
+11. **LRU Cache:** Implement an LRU (Least Recently Used) Cache using a combination of a map and a linked list.
+12. **Longest Consecutive Sequence:** Given an unsorted array, find the length of the longest consecutive sequence of elements.
+13. **First Non-Repeating Character:** Find the first non-repeating character in a string.
+14. **Subarray with Sum Zero:** Given an array, find if there exists a subarray with sum zero.
+15. **Clone Graph:** Given a directed graph, clone it.
+
+**Challenging Map Coding Questions:**
+
+16. **Maximum Points on a Line:** Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+17. **Minimum Window Substring:** Given a string and a pattern, find the minimum window in the string which contains all the characters of the pattern.
+18. **Number of Islands:** Given a 2D grid map of '1's (land) and '0's (water), count the number of islands.
+19. **Serialize and Deserialize Binary Tree:** Design an algorithm to serialize and deserialize a binary tree.
+20. **LFU (Least Frequently Used) Cache:** Implement an LFU cache.

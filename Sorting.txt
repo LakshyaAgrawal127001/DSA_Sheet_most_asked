@@ -1,0 +1,31 @@
+**Basic Sorting Coding Questions:**
+
+1. **Bubble Sort:** Implement the bubble sort algorithm to sort an array of integers.
+2. **Selection Sort:** Implement the selection sort algorithm to sort an array of integers.
+3. **Insertion Sort:** Implement the insertion sort algorithm to sort an array of integers.
+4. **Merge Two Sorted Arrays:** Given two sorted arrays, merge them into one sorted array.
+5. **Find the Kth Smallest Element:** Given an unsorted array, find the kth smallest element.
+
+**Intermediate Sorting Coding Questions:**
+
+6. **Quick Sort:** Implement the quick sort algorithm to sort an array of integers.
+7. **Heap Sort:** Implement the heap sort algorithm to sort an array of integers.
+8. **Counting Sort:** Implement the counting sort algorithm for a given range of integers.
+9. **Radix Sort:** Implement the radix sort algorithm to sort integers with multiple digits.
+10. **Sort Colors (Dutch National Flag Problem):** Given an array containing only 0s, 1s, and 2s, sort them in linear time.
+
+**Advanced Sorting Coding Questions:**
+
+11. **Merge Sort:** Implement the merge sort algorithm to sort an array of integers.
+12. **Top K Elements:** Find the K largest (or smallest) elements in an array.
+13. **In-Place Quick Sort:** Implement the quick sort algorithm in-place without using extra space.
+14. **External Sort:** Implement a sorting algorithm for data that doesn't fit in memory.
+15. **Closest Pair of Points:** Given an array of points, find the two closest points.
+
+**Challenging Sorting Coding Questions:**
+
+16. **External Merge Sort:** Implement an external sorting algorithm where data is too large to fit in main memory.
+17. **Find the Intersection of Two Sorted Arrays:** Given two sorted arrays, find their intersection.
+18. **Sort an Almost Sorted Array:** Given an array where each element is at most k positions away from its sorted position, sort the array.
+19. **Implement a Stable Sorting Algorithm:** Choose a stable sorting algorithm (like Merge Sort or Bubble Sort) and implement it.
+20. **Sort an Array of Strings:** Given an array of strings, sort them in lexicographic order.

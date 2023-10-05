@@ -1,0 +1,30 @@
+**Basic Trie Coding Questions:**
+
+1. **Trie Insertion:** Implement a function to insert a word into a trie.
+2. **Trie Search:** Implement a function to search for a word in a trie.
+3. **Prefix Matching:** Write a function to find all words with a given prefix in a trie.
+4. **Count Words in a Trie:** Write a function to count the number of words stored in a trie.
+5. **Delete a Word:** Implement a function to delete a word from a trie.
+
+**Intermediate Trie Coding Questions:**
+
+6. **Autocomplete with Tries:** Implement a function to suggest words based on a given prefix using a trie.
+7. **Longest Prefix Matching:** Write a function to find the longest prefix match for a given input string in a trie.
+8. **Trie Serialization/Deserialization:** Implement functions to serialize a trie into a string and deserialize it back into a trie.
+9. **Find All Anagrams in a List of Words:** Given a list of words, find all groups of anagrams.
+10. **Word Squares:** Given a set of words, find all possible word squares using them.
+
+**Advanced Trie Coding Questions:**
+
+11. **Wildcard Matching:** Implement wildcard pattern matching with support for '?' and '*'.
+12. **Implement a TrieMap:** Create a data structure that combines the properties of a trie and a hashmap.
+13. **Trie-Based Searching (e.g., Aho-Corasick Algorithm):** Implement a more advanced string searching algorithm using a trie.
+14. **Implement a Suffix Trie:** Create a trie that can handle suffixes of a given set of words.
+15. **Word Search II:** Given a 2D board and a list of words from the dictionary, find all words in the board.
+
+**Challenging Trie Coding Questions:**
+
+16. **Word Break II:** Given a non-empty string and a dictionary of words, find all possible word break combinations.
+17. **Shortest Prefix Search:** Implement a function to find the shortest prefix of a given word which is not a prefix of any other word in a list.
+18. **Implement a Ternary Search Trie:** A more advanced form of a trie with additional features.
+19. **Implement a Compressed Trie:** Create a trie that uses less memory by compressing common branches.

@@ -1,0 +1,32 @@
+**Basic Graph Coding Questions:**
+
+1. **Graph Representation:** Implement an adjacency matrix and an adjacency list to represent a graph.
+2. **Breadth-First Search (BFS):** Write a function to perform BFS traversal on a graph.
+3. **Depth-First Search (DFS):** Write a function to perform DFS traversal on a graph.
+4. **Check for Cycle in an Undirected Graph:** Write a function to check if an undirected graph contains a cycle.
+5. **Check for Cycle in a Directed Graph:** Write a function to check if a directed graph contains a cycle.
+
+**Intermediate Graph Coding Questions:**
+
+6. **Shortest Path (Dijkstra's Algorithm):** Implement Dijkstra's algorithm to find the shortest path in a weighted graph.
+7. **Shortest Path (Bellman-Ford Algorithm):** Implement the Bellman-Ford algorithm to find the shortest path in a weighted graph with negative edges.
+8. **Minimum Spanning Tree (Prim's Algorithm):** Implement Prim's algorithm to find the minimum spanning tree of a weighted graph.
+9. **Minimum Spanning Tree (Kruskal's Algorithm):** Implement Kruskal's algorithm to find the minimum spanning tree of a weighted graph.
+10. **Topological Sorting:** Write a function to perform topological sorting on a directed acyclic graph (DAG).
+
+**Advanced Graph Coding Questions:**
+
+11. **Strongly Connected Components (Kosaraju's Algorithm):** Implement Kosaraju's algorithm to find strongly connected components in a directed graph.
+12. **Articulation Points and Bridges:** Write a function to find articulation points and bridges in an undirected graph.
+13. **Maximum Flow (Ford-Fulkerson Algorithm):** Implement the Ford-Fulkerson algorithm to find the maximum flow in a flow network.
+14. **All Pairs Shortest Path (Floyd-Warshall Algorithm):** Implement the Floyd-Warshall algorithm to find the shortest path between all pairs of vertices in a weighted graph.
+15. **Traveling Salesman Problem (Dynamic Programming):** Solve the Traveling Salesman Problem using dynamic programming.
+
+**Challenging Graph Coding Questions:**
+
+16. **Minimum Cut (Karger's Algorithm):** Implement Karger's algorithm to find the minimum cut in a graph.
+17. **Eulerian Path and Circuit:** Write a function to find Eulerian path and circuit in a graph.
+18. **Graph Isomorphism:** Write a function to determine if two graphs are isomorphic.
+19. **2-Satisfiability Problem:** Implement an algorithm to solve the 2-SAT problem.
+20. **Hard Graph Coloring Problems (e.g., Chromatic Number):** Solve challenging graph coloring problems.
+

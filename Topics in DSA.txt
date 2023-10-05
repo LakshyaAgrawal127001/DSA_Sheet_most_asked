@@ -1,0 +1,73 @@
+**Data Structures:**
+
+1. **Arrays:** Dynamic arrays, multidimensional arrays, operations (insertion, deletion, search).
+
+2. **Linked Lists:** Singly linked lists, doubly linked lists, circular linked lists, operations (insertion, deletion, traversal).
+
+3. **Stacks:** LIFO (Last In, First Out) principle, operations (push, pop, peek).
+
+4. **Queues:** FIFO (First In, First Out) principle, operations (enqueue, dequeue, peek).
+
+5. **Trees:**
+   - Binary Trees: Properties, types (full, complete, balanced), traversals (inorder, preorder, postorder).
+   - Binary Search Trees (BST): Properties, operations (insertion, deletion, search).
+   - Balanced Binary Search Trees (AVL Trees).
+   - Heaps (min-heap, max-heap).
+
+6. **Graphs:**
+   - Representation (adjacency matrix, adjacency list).
+   - Traversals (DFS, BFS).
+   - Shortest Path Algorithms (Dijkstra's, Bellman-Ford).
+   - Minimum Spanning Tree (Prim's, Kruskal's).
+
+7. **Hashing:** Hash functions, collision resolution (chaining, open addressing).
+
+8. **Tries:** Prefix trees, operations (insertion, deletion, search).
+
+9. **Sets and Maps:** Implementations, operations (union, intersection, difference).
+
+10. **Priority Queues:** Implementation, operations (insertion, extraction of minimum/maximum).
+
+**Algorithms:**
+
+1. **Searching Algorithms:**
+   - Linear Search.
+   - Binary Search.
+   - Interpolation Search.
+
+2. **Sorting Algorithms:**
+   - Bubble Sort.
+   - Selection Sort.
+   - Insertion Sort.
+   - Merge Sort.
+   - Quick Sort.
+   - Heap Sort.
+   - Radix Sort.
+
+3. **Divide and Conquer:** Recursive algorithms, problems that can be solved using this paradigm.
+
+4. **Greedy Algorithms:** General approach, problems (Fractional Knapsack, Activity Selection, etc.).
+
+5. **Dynamic Programming:** Memoization, tabulation, problems (Fibonacci sequence, Longest Common Subsequence, Knapsack, etc.).
+
+6. **Backtracking:** Recursive approach, problems (N-Queens, Sudoku, Hamiltonian Cycle, etc.).
+
+7. **Graph Algorithms:**
+   - Depth-First Search (DFS).
+   - Breadth-First Search (BFS).
+   - Dijkstra's Algorithm.
+   - Bellman-Ford Algorithm.
+   - Floyd-Warshall Algorithm.
+   - Prim's Algorithm.
+   - Kruskal's Algorithm.
+
+8. **String Algorithms:** Pattern matching, string manipulation.
+
+9. **Bit Manipulation:** Basic bit operations, advanced problems (Subset Generation, XOR properties, etc.).
+
+10. **Mathematical Algorithms:** Euclidean Algorithm (GCD), Sieve of Eratosthenes (Prime Numbers), etc.
+
+11. **Searching and Sorting on Various Data Structures:** For example, searching in a BST, sorting a linked list, etc.
+
+12. **NP-Completeness and Approximation Algorithms:** Understanding the concept of NP-Completeness and designing approximation algorithms.
+

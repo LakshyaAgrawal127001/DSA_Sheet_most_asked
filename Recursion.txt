@@ -1,0 +1,32 @@
+**Basic Recursion Coding Questions:**
+
+1. **Factorial:** Write a recursive function to find the factorial of a given non-negative integer.
+2. **Sum of Natural Numbers:** Write a recursive function to find the sum of the first n natural numbers.
+3. **Fibonacci Series:** Write a recursive function to generate the nth Fibonacci number.
+4. **Power Function:** Write a recursive function to calculate the power of a number.
+5. **GCD (Greatest Common Divisor):** Write a recursive function to find the GCD of two numbers.
+6. **Binary Search:** Write a recursive function to perform a binary search on a sorted array.
+
+**Intermediate Recursion Coding Questions:**
+
+7. **Reverse a String:** Write a recursive function to reverse a string.
+8. **Print all Subsets:** Write a recursive function to print all subsets of a set.
+9. **Tower of Hanoi:** Implement the Tower of Hanoi problem using recursion.
+10. **Generate Parentheses:** Write a recursive function to generate all valid combinations of n pairs of parentheses.
+11. **Merge Sort:** Implement the merge sort algorithm using recursion.
+12. **Inorder/Preorder/Postorder Traversal:** Implement these tree traversals using recursion.
+
+**Advanced Recursion Coding Questions:**
+
+13. **N-Queens Problem:** Write a recursive function to solve the N-Queens problem.
+14. **Graph Traversal (e.g., DFS, BFS):** Implement graph traversal algorithms using recursion.
+15. **Subset Sum Problem:** Write a recursive function to determine if there exists a subset with a given sum in an array.
+16. **Knapsack Problem:** Solve the 0-1 Knapsack problem using recursion.
+17. **Trie Data Structure:** Implement a trie (prefix tree) using recursion.
+18. **Backtracking Algorithms (e.g., Sudoku Solver):** Implement backtracking algorithms using recursion.
+
+**Challenging Recursion Coding Questions:**
+
+19. **Dynamic Programming Problems (e.g., Longest Common Subsequence):** Solve dynamic programming problems using recursion and memoization.
+20. **Traveling Salesman Problem:** Solve the Traveling Salesman Problem using recursion.
+21. **Graph Algorithms (e.g., Shortest Path Algorithms):** Implement graph algorithms like Dijkstra's or Bellman-Ford using recursion.

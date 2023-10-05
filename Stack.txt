@@ -1,0 +1,32 @@
+**Basic Stack Coding Questions:**
+
+1. **Implement a Stack:** Create a basic stack data structure with push, pop, and isEmpty operations.
+2. **Valid Parentheses:** Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+3. **Evaluate Postfix Expression:** Given a postfix expression, evaluate it.
+4. **Implement a Min Stack:** Create a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+5. **Reverse a String using a Stack:** Write a program to reverse a string using a stack.
+
+**Intermediate Stack Coding Questions:**
+
+6. **Implement a Queue using Stacks:** Create a queue data structure using two stacks.
+7. **Next Greater Element:** Given an array, find the next greater element for every element.
+8. **Implement a Max Stack:** Create a stack that supports push, pop, top, retrieve the maximum element, all in constant time.
+9. **Stock Span Problem:** Calculate the span of stock's price for all days.
+10. **Infix to Postfix Conversion:** Convert an infix expression to postfix notation.
+
+**Advanced Stack Coding Questions:**
+
+11. **Largest Rectangle in Histogram:** Given an array representing heights of bars, find the largest rectangle that can be formed.
+12. **Expression Evaluation:** Evaluate arithmetic expressions with operators like '+', '-', '*', and '/'.
+13. **Decode String:** Given an encoded string, return its decoded form.
+14. **Implement a Stack using Queues:** Create a stack data structure using two queues.
+15. **Design a Functioning Calculator:** Create a calculator that can handle basic operations.
+
+**Challenging Stack Coding Questions:**
+
+16. **Simplify Directory Path:** Given an absolute path for a file (Unix-style), simplify it.
+17. **Trapping Rain Water:** Given an array representing elevation, calculate how much rain water it can trap.
+18. **Design a Data Structure that Supports Push, Pop, Top, and Retrieving the Minimum Element in Constant Time (Min Stack Follow-up):** Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+19. **Expression Parsing:** Parse and evaluate more complex expressions with parentheses, variables, and functions.
+20. **Implement a Circular Queue using Stacks:** Create a circular queue data structure using stacks.
+

@@ -1,0 +1,31 @@
+**Basic String Coding Questions:**
+
+1. **Reverse a String:** Write a function to reverse a given string.
+2. **Check for Palindrome:** Write a function to check if a string is a palindrome.
+3. **Count Vowels and Consonants:** Write a function to count the number of vowels and consonants in a string.
+4. **Check for Anagrams:** Write a function to check if two strings are anagrams of each other.
+5. **Count Occurrences of a Character:** Write a function to count the occurrences of a specific character in a string.
+6. **Convert to Uppercase/Lowercase:** Write a function to convert a string to all uppercase or all lowercase.
+
+**Intermediate String Coding Questions:**
+
+7. **Find the Longest Substring Without Repeating Characters:** Given a string, find the length of the longest substring without repeating characters.
+8. **Reverse Words in a String:** Write a function to reverse the words in a given sentence.
+9. **String Compression:** Write a function to perform basic string compression using the counts of repeated characters.
+10. **Valid Parentheses:** Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+11. **Longest Palindromic Substring:** Find the longest palindromic substring in a given string.
+
+**Advanced String Coding Questions:**
+
+12. **Regular Expression Matching:** Implement regular expression matching with support for '.' and '*'.
+13. **Edit Distance (Levenshtein Distance):** Given two words, find the minimum number of operations required to convert one word into the other.
+14. **String Permutations:** Generate all permutations of a string.
+15. **Substring with Concatenation of All Words:** Given a string and a list of words, find all starting indices of substring(s) in the given string that is a concatenation of each word exactly once.
+
+**Challenging String Coding Questions:**
+
+16. **Wildcard Matching:** Implement wildcard pattern matching with support for '?' and '*'.
+17. **Longest Common Subsequence:** Find the length of the longest common subsequence between two strings.
+18. **Minimum Window Substring:** Given a string S and a string T, find the minimum window in S which will contain all the characters in T.
+19. **Regular Expression Matching with Backtracking:** Implement regular expression matching with backtracking.
+20. **Longest Repeating Substring:** Find the longest substring which is repeated at least twice.

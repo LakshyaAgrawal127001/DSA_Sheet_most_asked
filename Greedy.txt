@@ -1,0 +1,26 @@
+**Basic Greedy Algorithm Coding Questions:**
+
+1. **Activity Selection:** Given a list of activities with their start and end times, select the maximum number of non-overlapping activities that can be performed.
+2. **Fractional Knapsack:** Given a set of items, each with a weight and a value, determine the maximum value of items to include in a knapsack of a fixed capacity.
+3. **Coin Change:** Given a set of coin denominations and a target amount, find the minimum number of coins required to make the target amount.
+
+**Intermediate Greedy Algorithm Coding Questions:**
+
+4. **Huffman Coding:** Implement Huffman coding to compress and decompress data efficiently.
+5. **Job Scheduling:** Given a set of jobs with their deadlines and profits, maximize the total profit by scheduling jobs optimally.
+6. **Minimum Spanning Tree (Prim's or Kruskal's Algorithm):** Implement an algorithm to find the minimum spanning tree of a graph.
+7. **Dijkstra's Shortest Path Algorithm:** Find the shortest path from a source node to all other nodes in a weighted graph.
+
+**Advanced Greedy Algorithm Coding Questions:**
+
+8. **Interval Scheduling with Minimum Lateness:** Given a set of intervals with start times, end times, and lateness penalties, schedule the intervals to minimize the total lateness.
+9. **Traveling Salesman Problem (TSP):** Find the shortest possible route that visits a given set of cities and returns to the starting city.
+10. **Longest Prefix Matching (Trie):** Implement a data structure and algorithm for performing longest prefix matching, commonly used in IP routing.
+11. **Maximum Number of Tasks:** Given a set of tasks with start and end times and their respective profits, maximize the total profit by scheduling tasks optimally with a limited resource.
+
+**Challenging Greedy Algorithm Coding Questions:**
+
+12. **Minimum Cost Spanning Tree (Primal-Dual Algorithm):** Implement the primal-dual algorithm to find the minimum cost spanning tree.
+13. **Subset Sum Problem:** Given a set of numbers, determine if there exists a subset that sums up to a given target.
+14. **Job Sequencing with Deadline:** Given a set of jobs with deadlines and profits, schedule jobs to maximize the total profit while meeting deadlines.
+15. **Scheduling on Parallel Machines:** Given a set of tasks and parallel machines, schedule tasks to minimize the makespan (total completion time).

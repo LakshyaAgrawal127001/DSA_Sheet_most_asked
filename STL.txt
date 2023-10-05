@@ -1,0 +1,77 @@
+### **Containers:**
+
+1. **Sequence Containers:**
+   - **`vector`**: Dynamic array.
+   - **`list`**: Doubly linked list.
+   - **`deque`**: Double-ended queue.
+
+2. **Associative Containers:**
+   - **`set`**: Collection of unique keys, sorted by keys.
+   - **`multiset`**: Collection of keys (may have duplicates), sorted by keys.
+   - **`map`**: Collection of key-value pairs, sorted by keys.
+   - **`multimap`**: Collection of key-value pairs (may have duplicates), sorted by keys.
+
+3. **Unordered Containers (C++11 and later):**
+   - **`unordered_set`**: Collection of unique keys, hashed for quick access.
+   - **`unordered_multiset`**: Collection of keys (may have duplicates), hashed for quick access.
+   - **`unordered_map`**: Collection of key-value pairs, hashed for quick access.
+   - **`unordered_multimap`**: Collection of key-value pairs (may have duplicates), hashed for quick access.
+
+### **Algorithms:**
+
+1. **Non-modifying Algorithms:**
+   - `std::for_each`, `std::find`, `std::count`, `std::accumulate`, etc.
+
+2. **Modifying Algorithms:**
+   - `std::copy`, `std::fill`, `std::transform`, `std::sort`, `std::reverse`, etc.
+
+3. **Sorting and Searching:**
+   - `std::sort`, `std::binary_search`, `std::lower_bound`, `std::upper_bound`, etc.
+
+4. **Numeric Algorithms:**
+   - `std::accumulate`, `std::inner_product`, `std::partial_sum`, `std::iota`, etc.
+
+5. **Permutations:**
+   - `std::next_permutation`, `std::prev_permutation`.
+
+6. **Heap Operations:**
+   - `std::make_heap`, `std::push_heap`, `std::pop_heap`, etc.
+
+7. **Set Operations:**
+   - `std::set_union`, `std::set_intersection`, `std::set_difference`, `std::set_symmetric_difference`.
+
+### **Iterators:**
+
+1. **Input Iterators:** Read-only access, single-pass.
+2. **Output Iterators:** Write-only access, single-pass.
+3. **Forward Iterators:** Read and write, multi-pass (e.g., `++it`).
+4. **Bidirectional Iterators:** Read and write, multi-pass (e.g., `++it`, `--it`).
+5. **Random Access Iterators:** Read and write, multi-pass with arithmetic (e.g., `it + 5`).
+
+### **Function Objects (Functors):**
+
+1. **`std::function`**: Generalized function wrapper.
+2. **`std::bind`**: Binds arguments to a function.
+3. **Lambda Expressions**: Anonymous functions for concise function objects.
+
+### **Utilities:**
+
+1. **`std::pair`**: Holds a pair of values, often used in associative containers.
+2. **`std::tuple` (C++11 and later)**: Holds a fixed-size collection of heterogeneous values.
+3. **`std::make_pair`, `std::make_tuple`**: Utility functions for creating pairs and tuples.
+
+### **Memory Management:**
+
+1. **`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`**: Smart pointers for memory management.
+
+### **Input/Output:**
+
+1. **`std::cin`, `std::cout`**: Standard input/output streams.
+2. **`std::getline`**: Reads a line of text from an input stream.
+
+### **Other Utilities:**
+
+1. **`std::swap`**: Swaps the values of two objects.
+2. **`std::move`**: Converts an lvalue to an rvalue.
+3. **`std::forward` (C++11 and later)**: Enables perfect forwarding.
+4. **`std::chrono` (C++11 and later)**: Utilities for time and date manipulation.
